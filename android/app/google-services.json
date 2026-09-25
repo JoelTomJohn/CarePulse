@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1093126581076",
+    "firebase_url": "https://guardianband-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "guardianband-project",
+    "storage_bucket": "guardianband-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093126581076:android:f1fd55c967d64cd3b8f6c1",
+        "android_client_info": {
+          "package_name": "com.thoma.carepulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGyaI7N00_EYGRmXM6hZVSnwutzN4goXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
